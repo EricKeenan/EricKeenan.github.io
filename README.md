@@ -4,7 +4,10 @@ Hello! I'm Eric, I'm a PhD student in the [Ice Sheets and Climate Group](https:/
 You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://drive.google.com/file/d/1ySf7i-YbFlgqOT8E7SNSnuSEPYJA-SFp/view).  
 
 # Education
-Bachelor of Science,	Earth and Space Sciences: Physics, University of Washington (2017)
+Degree | Year | Program
+------------ | -------------
+Bachelor of Science | 2017 | Earth and Space Sciences: Physics, University of Washington
+
 
 # Publications
 Lundquist, J. D., C. Chickadel, N. Cristea, W. R. Currier, B. Henn, **E. Keenan**, and J. Dozier, 2018, Separating snow and forest temperatures with thermal infrared remote sensing, Remote Sensing of the Environment, 209, 7640779. https://doi.org/10.1016/j.rse.2018.03.001
