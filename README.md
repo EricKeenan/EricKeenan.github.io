@@ -5,10 +5,6 @@ You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and
 
 # Education
 | Degree              | Year | Program                                                     |
-|---------------------|------|-------------------------------------------------------------|
-| Bachelor of Science | 2017 | Earth and Space Sciences: Physics, University of Washington |
-
-| Degree              | Year | Program                                                     |
 |:--------------------|:-----|:------------------------------------------------------------|
 | Bachelor of Science | 2017 | Earth and Space Sciences: Physics, University of Washington |
 
