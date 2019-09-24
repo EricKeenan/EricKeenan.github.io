@@ -4,8 +4,12 @@ Hello! I'm Eric, I'm a PhD student in the [Ice Sheets and Climate Group](https:/
 You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://drive.google.com/file/d/1ySf7i-YbFlgqOT8E7SNSnuSEPYJA-SFp/view).  
 
 # Education
-| Degree | Year | Program |
+| Degree              | Year | Program                                                     |
 |---------------------|------|-------------------------------------------------------------|
+| Bachelor of Science | 2017 | Earth and Space Sciences: Physics, University of Washington |
+
+| Degree              | Year | Program                                                     |
+|:--------------------|:-----|:------------------------------------------------------------|
 | Bachelor of Science | 2017 | Earth and Space Sciences: Physics, University of Washington |
 
 
