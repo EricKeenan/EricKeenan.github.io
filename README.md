@@ -1,7 +1,7 @@
 # About
 Hello! I'm Eric, I'm a PhD student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado. I'm interested in Earth System data science and numerical modeling of ice sheets. My primary computational tools are Linux and Python. 
 
-You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://drive.google.com/file/d/1ySf7i-YbFlgqOT8E7SNSnuSEPYJA-SFp/view).  
+You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://erickeenan.github.io/PDFS/Eric_Keenan_22072019.pdf).  
 
 # Education
 Doctor of Philosophy, Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2023). Advised by Dr. Jan Lenaerts. 
