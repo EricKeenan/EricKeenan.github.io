@@ -1,5 +1,7 @@
 # About
-Hello! I'm Eric, I'm a PhD student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado. I'm interested in Earth System data science and numerical modeling of ice sheets. My primary computational tools are Linux and Python. 
+Hello! I'm a PhD student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder.  My research focuses on snow accumulation at the surface of ice sheets. I develop numerical models to better understand how snow processes including wind-driven snow redistribution and densification influence measurements of ice sheet mass balance.  
+
+In addition to ice sheets, I am broadly interested in leveraging high performance and open-source tools (e.g. Linux, Python, and Jupyter) to accelerate discovery and reproducibility across computational Earth science. 
 
 You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://erickeenan.github.io/PDFS/Eric_Keenan_22072019.pdf).  
 
