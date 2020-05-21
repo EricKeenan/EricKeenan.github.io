@@ -1,5 +1,5 @@
 # About
-Hello! I'm a PhD student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder.  My research focuses on snow accumulation at the surface of ice sheets. I develop numerical models to better understand how snow processes including wind-driven snow redistribution and densification influence measurements of ice sheet mass balance.  
+Hello! I'm a Ph.D. student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder.  My research focuses on snow accumulation at the surface of ice sheets. I develop numerical models to better understand how snow processes including wind-driven snow redistribution and densification influence measurements of ice sheet mass balance.  
 
 In addition to ice sheets, I am broadly interested in leveraging high performance and open-source tools (e.g. Linux, Python, and Jupyter) to accelerate discovery and reproducibility across computational Earth science. 
 
