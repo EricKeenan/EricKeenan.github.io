@@ -6,9 +6,9 @@ In addition to ice sheets, I am broadly interested in leveraging high performanc
 You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://erickeenan.github.io/PDFS/Eric_Keenan_22072019.pdf).  
 
 # Education
-Doctor of Philosophy, Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2023). Advised by Dr. Jan Lenaerts. 
+Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2023). Advised by Dr. Jan Lenaerts. 
 
-Bachelor of Science, Earth and Space Sciences: Physics, University of Washington (2017). Advised by Dr. Jessica Lundquist. 
+B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advised by Dr. Jessica Lundquist. 
 
 # Publications
 Lundquist, J. D., C. Chickadel, N. Cristea, W. R. Currier, B. Henn, **E. Keenan**, and J. Dozier, 2018, Separating snow and forest temperatures with thermal infrared remote sensing, Remote Sensing of the Environment, 209, 7640779. https://doi.org/10.1016/j.rse.2018.03.001
