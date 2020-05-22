@@ -3,7 +3,7 @@ Hello! I'm a Ph.D. student in the [Ice Sheets and Climate Group](https://www.col
 
 In addition to ice sheets, I am broadly interested in leveraging high performance and open-source tools (e.g. Linux, Python, and Jupyter) to accelerate discovery and reproducibility across computational Earth science. 
 
-You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://erickeenan.github.io/PDFS/Eric_Keenan_22072019.pdf).  
+You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://erickeenan.github.io/PDFS/Eric_Keenan_CV.pdf).  
 
 # Education
 Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2023). Advised by Dr. Jan Lenaerts. 
