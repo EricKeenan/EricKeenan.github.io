@@ -13,9 +13,9 @@ B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advise
 # Publications
 **Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J.T.M., Medley, B., Kuipers Muenneke, P., Reijmer, C. Physics-based modeling of Antarctic snow and firn density. Submited to The Cryosphere. 
 
-Dunmire, D., Lenaerts, J.T.M., Banwell, A.F., Wever, N., Shragge, J., Lhermitte, S., Drews, R., Pattyn, F., Hansen, J.S.S., Willis, I.C., Miller, J., **Keenan, E.**, 2020. Observations of buried lake drainage on the Antarctic Ice Sheet. Geophys. Res. Lett. https://doi.org/10.1029/2020GL087970
+Dunmire, D., Lenaerts, J.T.M., Banwell, A.F., Wever, N., Shragge, J., Lhermitte, S., Drews, R., Pattyn, F., Hansen, J.S.S., Willis, I.C., Miller, J., **Keenan, E.**, 2020. Observations of buried lake drainage on the Antarctic Ice Sheet. Geophys. Res. Lett. https://doi.org/10.1029/2020GL087970.
 
-Lundquist, J. D., C. Chickadel, N. Cristea, W. R. Currier, B. Henn, **E. Keenan**, and J. Dozier, 2018, Separating snow and forest temperatures with thermal infrared remote sensing, Remote Sensing of the Environment, 209, 7640779. https://doi.org/10.1016/j.rse.2018.03.001
+Lundquist, J. D., C. Chickadel, N. Cristea, W. R. Currier, B. Henn, **E. Keenan**, and J. Dozier, 2018, Separating snow and forest temperatures with thermal infrared remote sensing, Remote Sensing of the Environment, 209, 7640779. https://doi.org/10.1016/j.rse.2018.03.001.
 
 Lundquist, J. D., Roche, J. W., Forrester, H., Moore, C., **Keenan, E.**, Perry, G., Cristea, N., Henn, B., Lapo, K., McGurk, B., Cayan, D. R. and Dettinger, M. D. (2016), Yosemite hydroclimate network: Distributed stream and atmospheric data for the Tuolumne River watershed and surroundings. Water Resour. Res., 52, doi:10.1002/2016WR019261.
 
