@@ -11,7 +11,7 @@ Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 202
 B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advised by Dr. Jessica Lundquist. 
 
 # Publications
-**Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J.T.M., Medley, B., Kuipers Muenneke, P., Reijmer, C. Physics-based modeling of Antarctic snow and firn density. Submited to The Cryosphere. 
+**Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J.T.M., Medley, B., Kuipers Muenneke, P., Reijmer, C. Physics-based modeling of Antarctic snow and firn density. Submitted to The Cryosphere. 
 
 Dunmire, D., Lenaerts, J.T.M., Banwell, A.F., Wever, N., Shragge, J., Lhermitte, S., Drews, R., Pattyn, F., Hansen, J.S.S., Willis, I.C., Miller, J., **Keenan, E.**, 2020. Observations of buried lake drainage on the Antarctic Ice Sheet. Geophys. Res. Lett. https://doi.org/10.1029/2020GL087970.
 
