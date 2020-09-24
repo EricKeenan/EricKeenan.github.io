@@ -15,7 +15,7 @@ B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advise
 # Publications
 **Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J. T. M., Medley, B., Kuipers Munneke, P., and Reijmer, C.: Physics-based modeling of Antarctic snow and firn density, The Cryosphere Discuss., https://doi.org/10.5194/tc-2020-175, in review, 2020.
 
-S. Stammerjohn, T. Scambos, ..., J. T. M. Lenaerts, **E. Keenan**, M. Maclennan, T. Gorte, and others. State of the Climate 2019: Antarctica. Bulletin of the American Meteorological Society, https://doi.org/10.1175/BAMS-D-20-0090.1.
+S. Stammerjohn, T. Scambos, ..., J. T. M. Lenaerts, **E. Keenan**, M. Maclennan, T. Gorte, and others. State of the Climate 2019: Antarctica and the Southern Ocean. Bulletin of the American Meteorological Society, https://doi.org/10.1175/BAMS-D-20-0090.1.
 
 Dunmire, D., Lenaerts, J.T.M., Banwell, A.F., Wever, N., Shragge, J., Lhermitte, S., Drews, R., Pattyn, F., Hansen, J.S.S., Willis, I.C., Miller, J., **Keenan, E.**, 2020. Observations of buried lake drainage on the Antarctic Ice Sheet. Geophys. Res. Lett. https://doi.org/10.1029/2020GL087970.
 
