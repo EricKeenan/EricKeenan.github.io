@@ -1,19 +1,21 @@
 # About
-Hello! I'm a Ph.D. student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder.  My research focuses on snow accumulation at the surface of ice sheets. I develop numerical models to better understand how snow processes including wind-driven snow redistribution and densification influence measurements of ice sheet mass balance.  
+Hello! I'm a Ph.D. student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder.  My research focuses on snow accumulation at the surface of ice sheets. I develop numerical models to better understand how snow processes including wind-driven snow redistribution and densification influence measurements of ice sheet mass balance and subsequent contribution to sea level rise.
 
 In addition to ice sheets, I am broadly interested in leveraging high performance and open-source tools (e.g. Linux, Python, and Jupyter) to accelerate discovery and reproducibility across computational Earth science. 
 
-You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and if you like, take a look at my [CV](https://erickeenan.github.io/PDFS/Eric_Keenan_CV.pdf).  
+You can find me on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and [LinkedIn](https://www.linkedin.com/in/eric-keenan/), and if you like, take a look at my [resume](https://erickeenan.github.io/PDFS/Eric_Keenan_Resume.pdf) or [academic CV](https://erickeenan.github.io/PDFS/Eric_Keenan_CV.pdf).
+
+I am currently searching for Summer 2021 internship oppurtunities in data science and software engineering.
 
 # Education
-Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2023). Advised by Dr. Jan Lenaerts. 
+Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2022). Advised by Dr. Jan Lenaerts. 
 
 B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advised by Dr. Jessica Lundquist. 
 
 # Publications
 **Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J. T. M., Medley, B., Kuipers Munneke, P., and Reijmer, C.: Physics-based modeling of Antarctic snow and firn density, The Cryosphere Discuss., https://doi.org/10.5194/tc-2020-175, in review, 2020.
 
-S. Stammerjohn, T. Scambos, ..., J. T. M. Lenaerts, **E. Keenan**, M. Maclennan, T. Gorte, and others. State of the Climate 2019: Antarctica. BAMS, accepted.
+S. Stammerjohn, T. Scambos, ..., J. T. M. Lenaerts, **E. Keenan**, M. Maclennan, T. Gorte, and others. State of the Climate 2019: Antarctica. Bulletin of the American Meteorological Society, https://doi.org/10.1175/BAMS-D-20-0090.1.
 
 Dunmire, D., Lenaerts, J.T.M., Banwell, A.F., Wever, N., Shragge, J., Lhermitte, S., Drews, R., Pattyn, F., Hansen, J.S.S., Willis, I.C., Miller, J., **Keenan, E.**, 2020. Observations of buried lake drainage on the Antarctic Ice Sheet. Geophys. Res. Lett. https://doi.org/10.1029/2020GL087970.
 
