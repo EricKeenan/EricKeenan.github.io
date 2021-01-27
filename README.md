@@ -1,7 +1,7 @@
 # About
-Hello! I'm an Atmospheric and Oceanic Sciences Ph.D. student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder. I leverage expertise in geospatial software engineering and GIS to develop sophisticated numerical models. These models help us understand ice sheet contribution to sea level rise by providing unique insight into snow accumulation on the surface of ice sheets. In my work, I leverage Linux-based high-performance computing platforms (Google Cloud Platform, AWS, Summit Supercomputer) to conduct large numerical experiments. I develop models primarily in C++, while I leverage Python for model analysis and data science. To properly configure and manage these tools, I develop open-source shell (bash) workflows using Git and GitHub. Furthermore, to promote reproducible and open science I use containerization technologies (Docker, Binder, Conda) along with project management tools (Jira, Trello). 
+Hello! I'm an Atmospheric and Oceanic Sciences Ph.D. student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder. I leverage expertise in geospatial software engineering and GIS to develop sophisticated numerical models. These models help us understand ice sheet contribution to sea level rise by providing unique insight into snow accumulation on the surface of ice sheets. In my work, I leverage Linux-based high-performance computing platforms (Google Cloud Platform, AWS, Summit Supercomputer) to conduct large numerical experiments. I develop models primarily in C++, while I leverage Python for model analysis and data science. To properly configure and manage these tools, I develop open-source shell (bash) workflows using Git and GitHub. Furthermore, to promote reproducible and open science I use containerization technologies including Docker, Binder, and Conda. 
 
-I am currently searching for Summer 2021 internship opportunities in data science and software engineering. If you would like to learn more about me, we can connect on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and [LinkedIn](https://www.linkedin.com/in/eric-keenan/)
+I am currently searching for Summer 2021 internship opportunities in data science and software engineering. If you would like to learn more about me, we can connect on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and [LinkedIn](https://www.linkedin.com/in/eric-keenan/).
 
 # Education
 Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2022). Advised by Dr. Jan Lenaerts. 
@@ -9,7 +9,7 @@ Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 202
 B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advised by Dr. Jessica Lundquist. 
 
 # Publications
-**Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J. T. M., Medley, B., Kuipers Munneke, P., and Reijmer, C.: Physics-based modeling of Antarctic snow and firn density, The Cryosphere Discuss., https://doi.org/10.5194/tc-2020-175, in review, 2020.
+**Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J. T. M., Medley, B., Kuipers Munneke, P., and Reijmer, C.: Physics-based modeling of Antarctic snow and firn density, The Cryosphere, https://doi.org/10.5194/tc-2020-175, accepted, 2021.
 
 S. Stammerjohn, T. Scambos, ..., J. T. M. Lenaerts, **E. Keenan**, M. Maclennan, T. Gorte, and others. State of the Climate 2019: Antarctica and the Southern Ocean. Bulletin of the American Meteorological Society, https://doi.org/10.1175/BAMS-D-20-0090.1.
 
