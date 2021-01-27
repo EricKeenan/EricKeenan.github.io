@@ -9,7 +9,7 @@ Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 202
 B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advised by Dr. Jessica Lundquist. 
 
 # Publications
-**Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J. T. M., Medley, B., Kuipers Munneke, P., and Reijmer, C.: Physics-based modeling of Antarctic snow and firn density, The Cryosphere, https://doi.org/10.5194/tc-2020-175, accepted, 2021.
+**Keenan, E.**, Wever, N., Dattler, M., Lenaerts, J. T. M., Medley, B., Kuipers Munneke, P., and Reijmer, C.: Physics-based SNOWPACK model improves representation of near-surface Antarctic snow and firn density, The Cryosphere, https://doi.org/10.5194/tc-2020-175, accepted, 2021.
 
 S. Stammerjohn, T. Scambos, ..., J. T. M. Lenaerts, **E. Keenan**, M. Maclennan, T. Gorte, and others. State of the Climate 2019: Antarctica and the Southern Ocean. Bulletin of the American Meteorological Society, https://doi.org/10.1175/BAMS-D-20-0090.1.
 
