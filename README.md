@@ -6,6 +6,8 @@ I am currently searching for Summer 2021 internship opportunities in data scienc
 # Education
 Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2022). Advised by Dr. Jan Lenaerts. 
 
+M.Sc., Atmospheric and Oceanic Sciences, University of Colorado (2020). Advised by Dr. Jan Lenaerts. 
+
 B.S., Earth and Space Sciences: Physics, University of Washington (2017). Advised by Dr. Jessica Lundquist. 
 
 # Publications
