@@ -1,7 +1,7 @@
 # About
 Hello! I'm an Atmospheric and Oceanic Sciences Ph.D. student in the [Ice Sheets and Climate Group](https://www.colorado.edu/lab/icesheetclimate/) at the University of Colorado Boulder. I leverage expertise in geospatial software engineering and GIS to develop sophisticated numerical models. These models help us understand ice sheet contribution to sea level rise by providing unique insight into snow accumulation on the surface of ice sheets. In my work, I leverage Linux-based high-performance computing platforms (Google Cloud Platform, AWS, Summit Supercomputer) to conduct large numerical experiments. I develop models primarily in C++, while I leverage Python for model analysis and data science. To properly configure and manage these tools, I develop open-source shell (bash) workflows using Git and GitHub. Furthermore, to promote reproducible and open science I use containerization technologies including Docker, Binder, and Conda. 
 
-I am currently searching for Summer 2021 internship opportunities in data science and software engineering. If you would like to learn more about me, we can connect on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and [LinkedIn](https://www.linkedin.com/in/eric-keenan/).
+If you would like to learn more about me, we can connect on Twitter [@EricKeenanCU](https://twitter.com/EricKeenanCU) and [LinkedIn](https://www.linkedin.com/in/eric-keenan/).
 
 # Education
 Ph.D., Atmospheric and Oceanic Sciences, University of Colorado (Anticipated 2022). Advised by Dr. Jan Lenaerts. 
